@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mr Kapptie's Programming Portfolio 2020
 
 You can use the [editor on GitHub](https://github.com/kappter/Programming1Portfolio2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
